@@ -1,4 +1,4 @@
-# 赤友NTFS助手：让Mac能读写NTFS硬盘
+# NTFS for Mac - 赤友NTFS助手：让Mac能读写NTFS硬盘
 在这篇赤友NTFS助手的评测中，我们将告诉你它是否能解决它所宣称的问题。
 
 ## 赤友NTFS助手入门指南
